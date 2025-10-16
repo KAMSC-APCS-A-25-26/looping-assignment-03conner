@@ -13,7 +13,7 @@ public class SumOfEvenNumbers {
                     sum += i;
 
             }
-            System.out.println("The sum of even numbers between 2 and " + num + " is " + sum);
+            System.out.println("The sum of even numbers between 2 and " + num + " is " + sum + ".");
         }
         else{
             System.out.println("Error: Input must be 2 or greater.");
